@@ -125,7 +125,7 @@ root@fac50de5d760:~#apt install dnsiff
 root@fac50de5d760:~# arpspoof -t 172.18.0.3 -r 172.18.0.4
 ```
 
-Ici la commande viens empoisonner la talbe arp du client en faisant croir eque nus sommes la DB. 
+Ici la commande viens empoisonner la table arp du client en faisant croire que nous sommes la DB. 
 Maintenant il est donc possible de recevoir les échanges entre le client et la db.
 
 Pour capturer cela, on va faire un tcp dump sur le port 3306 de la db ouvert souvenez-vous.
@@ -140,7 +140,7 @@ Par faciliter pour le lecteur j'ai mis que la ligne qui contient le flag.
 
 OK, premiere partie de faite et il nous reste la plus facile et plus dure en même temps :)
 
-Nous pouvons maintenant Brut force le mot de passe, cela serait très rapide et efficace mais nous nous voulons aller plus loin...
+Nous pouvons maintenant brut force le mot de passe, cela serait très rapide et efficace mais nous nous voulons aller plus loin...
 
 Je mets quand même cette partie : 
 
