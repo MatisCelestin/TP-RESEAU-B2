@@ -127,7 +127,7 @@ tcpdump:x:72:72::/:/sbin/nologin
 netdata:x:991:991:Netdata pseudo user:/usr/share/netdata:/sbin/nologin
 ```
 - voler le code serveur de l'application
-[server.py](/TP-5/client.py)
+[server.py](/TP-5/server.py)
 ```
 sh-5.1# cat server.py
 cat server.py
