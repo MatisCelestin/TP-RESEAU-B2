@@ -57,3 +57,15 @@ Grace à la commande traceroute on obtient l'IP suivante : 104.26.11.233
 ```
 [https://github.com/MatisCelestin/TP-RESEAU-B2/tree/main/TP-1/CAPTURE](./CAPTURE/arp.pca)
 ```
+
+☀️ Capture DNS
+
+```
+[https://github.com/MatisCelestin/TP-RESEAU-B2/blob/main/TP-1/CAPTURE/dns.pcap](./CAPTURE/dns.pcap)
+```
+
+☀️ Capture TCP
+
+```
+
+```
