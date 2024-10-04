@@ -67,5 +67,5 @@ Grace à la commande traceroute on obtient l'IP suivante : 104.26.11.233
 ☀️ Capture TCP
 
 ```
-
+[https://github.com/MatisCelestin/TP-RESEAU-B2/blob/main/TP-1/CAPTURE/tcp.pcap](./CAPTURE/tcp.pcap)
 ```
