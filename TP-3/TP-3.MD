@@ -1,1 +1,1 @@
-Lien du TP-3 réalisé en groupe : ```https://github.com/aamine33/reseauxb2/blob/main/TP3/tp3.md```
+Lien du TP-3 réalisé en groupe : https://github.com/aamine33/reseauxb2/blob/main/TP3/tp3.md
