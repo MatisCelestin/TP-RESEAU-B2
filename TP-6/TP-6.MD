@@ -74,7 +74,7 @@ There are probably a few things the administrator was missing when writing this 
        match: above this limit, 1) applies
 
     4) When a rule with a 'terminating' target (e.g.: ACCEPT, DROP...) matches
-       a packet, then the search stops: the packet won't be tested against any
+       a packet, then the search stops: the packet won't be tested against any 
        other rules
     
 
